@@ -1,5 +1,5 @@
 # Personal-Workflows
-Just my workflows for software design. I.E., a little algorithm for problems you or I might encounter. Updated as find better ways to do things. 
+Just my workflows for software design. I.E., a little algorithm for problems you or I might encounter. Updated as I find better ways to do things. 
 
 ## Introduction:
 Remember to plan your work out
