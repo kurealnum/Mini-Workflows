@@ -22,9 +22,36 @@ It's also important to remember that your mind works a lot better in the backgro
 ## Learn by doing, not by looking
 I'm a firm believer in this concept, and if you're reading this, it's likely that you are too. You can read documentation all you want, grind out W3 Schools tutorials, but until you sit down and push yourself through something that you didn't do yesterday, you're not really "learning". Even if you're taking notes, or copying the tutorial down into your own editor, I still don't think it equates to actually doing something. Learning is hard, and while repetition can help, actually challenging yourself will really do the trick.
 
- However, a major problem comes with said concept. That problem being projects; i.e. what projects to do, when, and where. In my opinion (*please remember that I'm 16*), beginners struggle with this the most, because there's no prior experience to help guide you into a new language or framework. However when you take someone who already knows concepts and 1 or 2 languages, the entire dynamic of the whole process changes. You already have a foothold to step on, and leap into that. I think this flows somewhat nicely into my next topic, Tutorial Hell (I'll get to that tomorrow, this might be here next commit lol)
+ However, a major problem comes with said concept. That problem being projects; i.e. what projects to do, when, and where. In my opinion (*please remember that I'm 16*), beginners struggle with this the most, because there's no prior experience to help guide you into a new language or framework. However when you take someone who already knows concepts and 1 or 2 languages, the entire dynamic of the whole process changes. You already have a foothold to step on, and leap into that. I think this flows somewhat nicely into my next topic, Tutorial Hell (I'll get to that tomorrow, this might still be here next commit lol)
 
 # Encountering bugs/problems: 
+My workflows for certain problemms; probably the most useful part of this whole file.
+
+## 1.The Big 2:
+The 2 ***REALLY*** important things to do every time you have encounter a bug:
+
+### 1. Check the syntax
+This is a crucial part of almost every single one of my workflows, you'll see it mentioned again and again. Even if you're working in an editor with linting/syntax highlighting, still check it. I've missed plenty of important things because I thought that my editor would catch it.
+
+### 2. Walk through your logic
+Whiteboarding is amazing here!
+
+## Encountering an incorrect function return
+
+### 1. [The Big 2](#1-the-big-2)
+
+### 2. Walk through the function by:
+-Go past the function you're working in
+
+-Go through every function that is called/used in said function
+
+-Go into documentation if the function is built in
+
+-Figure out what it should be returning, and why
+
+### 3. Find context
+
+### 4. Minimize and Maximize 
 
 ## Encountering a bug
 ### 1. Check the syntax 
