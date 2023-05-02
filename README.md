@@ -25,8 +25,8 @@ I'm a firm believer in this concept, and if you're reading this, it's likely tha
  However, a major problem comes with said concept. That problem being projects; i.e. what projects to do, when, and where. In my opinion (*please remember that I'm 16*), beginners struggle with this the most, because there's no prior experience to help guide you into a new language or framework. However when you take someone who already knows concepts and 1 or 2 languages, the entire dynamic of the whole process changes. You already have a foothold to step on, and leap into that. I think this flows somewhat nicely into my next topic, Tutorial Hell (I'll get to that tomorrow, this might still be here next commit lol)
  
 
-# Encountering bugs/problems: 
-My workflows for certain problemms; probably the most useful part of this whole file.
+# Best methods of practice for X: 
+My workflows for certain problems, where X is a problem, bug, question, ect.
 
 ## The Big 2:
 The 2 ***REALLY*** important things to do every time you have encounter a bug:
@@ -36,6 +36,47 @@ This is a crucial part of almost every single one of my workflows, you'll see it
 
 ### 2. Walk through your logic
 Whiteboarding is amazing here!
+
+
+## Learning DSA/Grinding Leetcode problems:
+This is a major learning experience for me, and it'll be changed as I go along!
+
+Blinds 75 TODO (the ex-facebooks devs list) is something that I would love to work through, I just need to have the time and whatnot. I'd also like to note that I actually want to learn DSA (Data Structures and Algorithms), and not just interviews.
+
+## Random Notes:
+-Data structures isn't just about organizing data, it's also about the operations that we use on those data structures 
+
+## Understanding Leetcode problems
+Practice is the most important thing here. Other than that, make sure you actually solve the problem each time. Here's my little "guide" (that I constantly update/change) to succesfully do Leetcode problems, and then actually absorb the information
+
+### 1. Write the problem out:
+-Doesn't have to be on a whiteboard, just in comments
+
+-Make sure your comments are friendly to ***you***
+
+### 2. Review your written problem a few times:
+-Go back over it multiple times, check for so called "plot holes"
+
+>-Is there anything that differs from the original prompt?
+
+>-Is there anything that I could do to make this better?
+
+### 3. Start coding:
+-Explain the problem to yourself as you code
+
+-Practice backtracking through your code; you'll often find yourself doing this when you realize that something needs to be changed
+
+### 4. When you finish:
+-Reflect on negative tendencies, on any problems that you're not doing so well on. Make sure you don't repeat those.
+
+>-Why did I come up with this solution?
+
+>-Do I need all of this code that I wrote, or is there a lot of boilerplate?
+
+>-Is there something I could do differently? How can I make sure I do that next time?
+
+Credit to *haekuh#0254* for this part ^^
+
 
 ## Encountering an incorrect function return
 
