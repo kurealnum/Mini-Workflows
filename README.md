@@ -41,10 +41,10 @@ Whiteboarding is amazing here!
 ## Learning DSA/Grinding Leetcode problems:
 This is a major learning experience for me, and it'll be changed as I go along!
 
-Blinds 75 TODO (the ex-facebooks devs list) is something that I would love to work through, I just need to have the time and whatnot. I'd also like to note that I actually want to learn DSA (Data Structures and Algorithms), and not just interviews.
-
-## Random Notes:
+### Random Notes:
 -Data structures isn't just about organizing data, it's also about the operations that we use on those data structures 
+
+-***Blinds 75 list*** (the ex-facebooks devs list) is something that I would love to work through, I just need to have the time and whatnot. I'd also like to note that I actually want to learn DSA (Data Structures and Algorithms), and not just interviews.
 
 ## Understanding Leetcode problems
 Practice is the most important thing here. Other than that, make sure you actually solve the problem each time. Here's my little "guide" (that I constantly update/change) to succesfully do Leetcode problems, and then actually absorb the information
@@ -57,25 +57,36 @@ Practice is the most important thing here. Other than that, make sure you actual
 ### 2. Review your written problem a few times:
 -Go back over it multiple times, check for so called "plot holes"
 
->-Is there anything that differs from the original prompt?
+>Is there anything that differs from the original prompt?
 
->-Is there anything that I could do to make this better?
+>Is there anything that I could do to make this better?
 
 ### 3. Start coding:
 -Explain the problem to yourself as you code
+
+-Write it out. No matter what, walk yourself through a testcase on a whiteboard or something in similar fashion. 
 
 -Practice backtracking through your code; you'll often find yourself doing this when you realize that something needs to be changed
 
 ### 4. When you finish:
 -Reflect on negative tendencies, on any problems that you're not doing so well on. Make sure you don't repeat those.
 
->-Why did I come up with this solution?
+-Write it out again. If there was a mistake, if there wasn't
 
->-Do I need all of this code that I wrote, or is there a lot of boilerplate?
+>Why did I come up with this solution?
 
->-Is there something I could do differently? How can I make sure I do that next time?
+>Do I need all of this code that I wrote, or is there a lot of boilerplate?
+
+>Is there something I could do differently? How can I make sure I do that next time?
 
 Credit to *haekuh#0254* for this part ^^
+
+### 5. "Post Problem":
+-Once you're finished with the problem, write your solution down somewhere
+
+-You can't write or memorize the entire problem, so try and stick to a few sentences, one paragraph at most.
+
+-Google docs/sheets or any similar program works well for this
 
 
 ## Encountering an incorrect function return
