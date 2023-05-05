@@ -47,6 +47,9 @@ This is a major learning experience for me, and it'll be changed as I go along!
 -***Blinds 75 list*** (the ex-facebooks devs list) is something that I would love to work through, I just need to have the time and whatnot. I'd also like to note that I actually want to learn DSA (Data Structures and Algorithms), and not just interviews.
 
 ## Understanding Leetcode problems
+
+***Use REACTO***
+
 Practice is the most important thing here. Other than that, make sure you actually solve the problem each time. Here's my little "guide" (that I constantly update/change) to succesfully do Leetcode problems, and then actually absorb the information
 
 ### 1. Write the problem out:
