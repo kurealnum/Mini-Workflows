@@ -48,7 +48,13 @@ This is a major learning experience for me, and it'll be changed as I go along!
 
 ## Understanding Leetcode problems
 
-***Use REACTO***
+***Use REACTO:***
+1. Repeat: make sure you do understand the problem.
+2. Example: get insights by doing examples 
+3. Approach: come up with your approach(es) to the problem (brute force first)
+4. Code: write the code for your chosen approach
+5. Testing: pass the testcases
+6. Optimize: optimize the complexities (time and space) of your algorithm
 
 Practice is the most important thing here. Other than that, make sure you actually solve the problem each time. Here's my little "guide" (that I constantly update/change) to succesfully do Leetcode problems, and then actually absorb the information
 
