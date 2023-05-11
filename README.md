@@ -61,6 +61,8 @@ Written by [Diego](https://www.youtube.com/channel/UC9s8Wy4D_4dsFjwiufqNAng)
 Practice is the most important thing here. Other than that, make sure you actually solve the problem each time. Here's my little "guide" (that I constantly update/change) to succesfully do Leetcode problems, and then actually absorb the information
 
 ### 1. Write the problem out:
+-Identify what you need to find to solve the problem
+
 -Doesn't have to be on a whiteboard, just in comments
 
 -Make sure your comments are friendly to ***you***
