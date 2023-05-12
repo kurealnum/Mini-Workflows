@@ -81,7 +81,14 @@ Practice is the most important thing here. Other than that, make sure you actual
 
 -Practice backtracking through your code; you'll often find yourself doing this when you realize that something needs to be changed
 
-### 4. When you finish:
+### 4. Revising your algorithm. 
+-Take a step back and look at the bare minimum required to pass the testcases. Do you *really* need that whole array?
+
+-It's ok to completely redo something! Just make sure you save your working answer
+
+-If you can't find anything to completely redo, look at how you can optimize your current algorithm
+
+### 5. When you finish:
 -Reflect on negative tendencies, on any problems that you're not doing so well on. Make sure you don't repeat those.
 
 -Write it out again. If there was a mistake, if there wasn't
