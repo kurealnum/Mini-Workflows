@@ -10,20 +10,24 @@ All of these workflows are really intended for ***education***, not just for you
 
 ## Planning
 
-Planning is so incredibly important. The only time I don't completely plan my software out is when it's one file, and ***I know*** that it's going to be shorter than 80-100 lines. 
+Planning is so incredibly important. The only time I don't completely plan my software out is when it's one file, and ***I know*** that it's going to be shorter than 80 some lines. 
 
 If you don't plan your work out, it becomes so much more tiring to keep track of your goals, and your current place in those goals. This kinda flows into the next section, Breaks.
 
 ## Breaks
 Breaks are ***very*** important. Whether you want to be as refined as the Pomodoro technique, or you just take breaks sporadically, like me, breaks are incredibly imporant.
 
-It's also important to remember that your mind works a lot better in the background (i.e., the subconscious), than it does in your “conscious” state. What I’m getting at is, if you’re stuck on something, go stare at something and think about something else. Professional chess players do it, software devs do it, so it must work, right? 
+I also feel like your mind works a lot better in the background (i.e., the subconscious), than it does in your “conscious” state. What I’m getting at is, if you’re stuck on something, go stare at something and think about something else. Professional chess players do it, so it must work, right? 
 
 ## Learn by doing, not by looking
 I'm a firm believer in this concept, and if you're reading this, it's likely that you are too. You can read documentation all you want, grind out W3 Schools tutorials, but until you sit down and push yourself through something that you didn't do yesterday, you're not really "learning". Even if you're taking notes, or copying the tutorial down into your own editor, I still don't think it equates to actually doing something. Learning is hard, and while repetition can help, actually challenging yourself will really do the trick.
 
- However, a major problem comes with said concept. That problem being projects; i.e. what projects to do, when, and where. In my opinion (*please remember that I'm 16*), beginners struggle with this the most, because there's no prior experience to help guide you into a new language or framework. However when you take someone who already knows concepts and 1 or 2 languages, the entire dynamic of the whole process changes. You already have a foothold to step on, and leap into that. I think this flows somewhat nicely into my next topic, Tutorial Hell (I'll get to that tomorrow, this might still be here next commit lol)
+However, a major problem comes with said concept. That problem being projects; i.e. what projects to do, when, and where. In my opinion (*please remember that I'm 16*), beginners struggle with this the most, because there's no prior experience to help guide you into a new language or framework. However when you take someone who already knows concepts and 1 or 2 languages, the entire dynamic of the whole process changes. You already have a foothold to step on, and leap into that. I think this flows somewhat nicely into the next topic, Tutorial Hell (I'll get to that tomorrow, this might still be here next commit lol)
  
+## Closing thoughts
+Take everything I and others say with a grain of salt. Figure out what works for you. Ideas like this shouldn't be all encompassing, but just an idea, in a sea of other ideas. 
+
+Also, not to be the shameless plug, but I do write about similar topics on my [blog.](https://dev.to/kurealnum)
 
 # Best methods of practice for X: 
 My workflows for certain problems, where X is a problem, bug, question, ect.
