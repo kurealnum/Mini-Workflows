@@ -27,7 +27,7 @@ However, a major problem comes with said concept. That problem being projects; i
 ## Tutorial Hell
 I think tutorials are both a blessing and a curse. On one hand, it can be quite a pain to struggle through the basics of a language without some guiding you, but on the other hand, you could _(and probably will!)_ become very dependent on them. I feel like it's very easy for you to get sucked into an "easy" way of doing things, and not taking the time to struggle through projects/bugs on your own.
 
-Once in, Tutorial Hell is a hard thing to get out of. As I partially mentioned, it feels a lot better to understand a topic immediately, rather than really putting in the effort to have a deeper and more permanent understanding of it. (TODO: Finish this part)
+Once in, Tutorial Hell is a hard thing to get out of. As I partially mentioned, it feels a lot better to understand a topic immediately, rather than really putting in the effort to have a deeper and more permanent understanding of it.
  
 ## Closing thoughts
 Take everything I and others say with a grain of salt. Figure out what works for you. Ideas like this shouldn't be all encompassing, but just an idea, in a sea of other ideas. 
@@ -181,3 +181,10 @@ Credit to *haekuh#0254* for this part ^^
 -Make sure you *completely* understand why you couldn't solve the problem
 
 -Practing similar problems isn't a horrible idea, althought it may be incredibly time consuming.
+
+
+# TODO
+- Finish "Tutorial Hell"
+- Add a section on "How to google it" (with information from [this](https://www.youtube.com/watch?v=cEBkvm0-rg0) video)
+- Revise/change/add to best methods of practice
+- Rename "best methods of practice", as it doesn't accurately reflect what I want to denote. Hopefully that makes sense!
