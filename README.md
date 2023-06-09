@@ -33,10 +33,10 @@ Once in, Tutorial Hell is a hard thing to get out of. As I partially mentioned, 
 Take everything I and others say with a grain of salt. Figure out what works for you. Ideas like this shouldn't be all encompassing, but just an idea, in a sea of other ideas. 
 
 Also, not to be the shameless plug, but I do write about similar topics on my [blog.](https://dev.to/kurealnum)
-
+<br></br>
 # Best methods of practice for X: 
 My workflows for certain problems, where X is a problem, bug, question, ect.
-
+<br></br>
 ## The Big 2:
 The 2 ***REALLY*** important things to do every time you have encounter a bug:
 
@@ -45,8 +45,7 @@ This is a crucial part of almost every single one of my workflows, you'll see it
 
 ### 2. Walk through your logic
 Whiteboarding is amazing here!
-
-
+<br></br>
 ## Learning DSA/Grinding Leetcode problems:
 This is a major learning experience for me, and it'll be changed as I go along!
 
@@ -118,8 +117,7 @@ Credit to *haekuh#0254* for this part ^^
 -You can't write or memorize the entire problem, so try and stick to a few sentences, one paragraph at most.
 
 -Google docs/sheets or any similar program works well for this
-
-
+<br></br>
 ## Encountering an incorrect function return
 
 ### 1. [The Big 2](#the-big-2)
@@ -140,8 +138,7 @@ Credit to *haekuh#0254* for this part ^^
 -Look at some other code that involves this function. What does it do differently/the same?
 
 -If it's your own function, attempt to isolate the sub-function (if you will), and do the same for that function
-
-
+<br></br>
 ## Encountering a bug
 ### 1. [The Big 2](#the-big-2)
 
@@ -182,6 +179,7 @@ Credit to *haekuh#0254* for this part ^^
 
 -Practing similar problems isn't a horrible idea, althought it may be incredibly time consuming.
 
+<br></br>
 
 # TODO
 - Finish "Tutorial Hell"
