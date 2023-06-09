@@ -1,40 +1,7 @@
 # Personal-Workflows
 Just my workflows for software design. I.E., a little algorithm for problems you or I might encounter. Updated as I find better ways to do things. 
 
-# Mindset:
-
-## Introduction/Journaling:
-*I'm 16, I'm not a psychologist :>*
-
-All of these workflows are really intended for ***education***, not just for you to code as quickly as possible. That's the secondary goal of course, but if that was truly the primary goal, there would be one section telling you to go straight to ChatGPT.
-
-## Planning
-
-Planning is so incredibly important. The only time I don't completely plan my software out is when it's one file, and ***I know*** that it's going to be shorter than 80 some lines. 
-
-If you don't plan your work out, it becomes so much more tiring to keep track of your goals, and your current place in those goals. This kinda flows into the next section, Breaks.
-
-## Breaks
-Breaks are ***very*** important. Whether you want to be as refined as the Pomodoro technique, or you just take breaks sporadically, like me, breaks are incredibly imporant.
-
-I also feel like your mind works a lot better in the background (i.e., the subconscious), than it does in your “conscious” state. What I’m getting at is, if you’re stuck on something, go stare at something and think about something else. Professional chess players do it, so it must work, right? 
-
-## Learn by doing, not by looking
-I'm a firm believer in this concept, and if you're reading this, it's likely that you are too. You can read documentation all you want, grind out W3 Schools tutorials, but until you sit down and push yourself through something that you didn't do yesterday, you're not really "learning". Even if you're taking notes, or copying the tutorial down into your own editor, I still don't think it equates to actually doing something. Learning is hard, and while repetition can help, actually challenging yourself will really do the trick.
-
-However, a major problem comes with said concept. That problem being projects; i.e. what projects to do, when, and where. In my opinion (*please remember that I'm 16*), beginners struggle with this the most, because there's no prior experience to help guide you into a new language or framework. However when you take someone who already knows concepts and 1 or 2 languages, the entire dynamic of the whole process changes. You already have a foothold to step on, and leap into that. I think this flows somewhat nicely into the next topic, Tutorial Hell.
-
-## Tutorial Hell
-I think tutorials are both a blessing and a curse. On one hand, it can be quite a pain to struggle through the basics of a language without some guiding you, but on the other hand, you could _(and probably will!)_ become very dependent on them. I feel like it's very easy for you to get sucked into an "easy" way of doing things, and not taking the time to struggle through projects/bugs on your own.
-
-Once in, Tutorial Hell is a hard thing to get out of. As I partially mentioned, it feels a lot better to understand a topic immediately, rather than really putting in the effort to have a deeper and more permanent understanding of it.
- 
-## Closing thoughts
-Take everything I and others say with a grain of salt. Figure out what works for you. Ideas like this shouldn't be all encompassing, but just an idea, in a sea of other ideas. 
-
-Also, not to be the shameless plug, but I do write about similar topics on my [blog.](https://dev.to/kurealnum)
-<br></br>
-# Best methods of practice for X: 
+# Best methods of practice for X + Outlining and workflows: 
 My workflows for certain problems, where X is a problem, bug, question, ect.
 <br></br>
 ## The Big 2:
@@ -178,6 +145,41 @@ Credit to *haekuh#0254* for this part ^^
 -Make sure you *completely* understand why you couldn't solve the problem
 
 -Practing similar problems isn't a horrible idea, althought it may be incredibly time consuming.
+
+<br></br>
+
+# The mini blog!:
+
+## Introduction/Journaling:
+*I'm 16, I'm not a psychologist :>*
+
+All of these workflows are really intended for ***education***, not just for you to code as quickly as possible. That's the secondary goal of course, but if that was truly the primary goal, there would be one section telling you to go straight to ChatGPT.
+
+## Planning
+
+Planning is so incredibly important. The only time I don't completely plan my software out is when it's one file, and ***I know*** that it's going to be shorter than 80 some lines. 
+
+If you don't plan your work out, it becomes so much more tiring to keep track of your goals, and your current place in those goals. This kinda flows into the next section, Breaks.
+
+## Breaks
+Breaks are ***very*** important. Whether you want to be as refined as the Pomodoro technique, or you just take breaks sporadically, like me, breaks are incredibly imporant.
+
+I also feel like your mind works a lot better in the background (i.e., the subconscious), than it does in your “conscious” state. What I’m getting at is, if you’re stuck on something, go stare at something and think about something else. Professional chess players do it, so it must work, right? 
+
+## Learn by doing, not by looking
+I'm a firm believer in this concept, and if you're reading this, it's likely that you are too. You can read documentation all you want, grind out W3 Schools tutorials, but until you sit down and push yourself through something that you didn't do yesterday, you're not really "learning". Even if you're taking notes, or copying the tutorial down into your own editor, I still don't think it equates to actually doing something. Learning is hard, and while repetition can help, actually challenging yourself will really do the trick.
+
+However, a major problem comes with said concept. That problem being projects; i.e. what projects to do, when, and where. In my opinion (*please remember that I'm 16*), beginners struggle with this the most, because there's no prior experience to help guide you into a new language or framework. However when you take someone who already knows concepts and 1 or 2 languages, the entire dynamic of the whole process changes. You already have a foothold to step on, and leap into that. I think this flows somewhat nicely into the next topic, Tutorial Hell.
+
+## Tutorial Hell
+I think tutorials are both a blessing and a curse. On one hand, it can be quite a pain to struggle through the basics of a language without some guiding you, but on the other hand, you could _(and probably will!)_ become very dependent on them. I feel like it's very easy for you to get sucked into an "easy" way of doing things, and not taking the time to struggle through projects/bugs on your own.
+
+Once in, Tutorial Hell is a hard thing to get out of. As I partially mentioned, it feels a lot better to understand a topic immediately, rather than really putting in the effort to have a deeper and more permanent understanding of it.
+ 
+## Closing thoughts
+Take everything I and others say with a grain of salt. Figure out what works for you. Ideas like this shouldn't be all encompassing, but just an idea, in a sea of other ideas. 
+
+Also, not to be the shameless plug, but I do write about similar topics on my [blog.](https://dev.to/kurealnum)
 
 <br></br>
 
