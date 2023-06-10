@@ -1,5 +1,7 @@
 # Personal-Workflows
-Just my workflows for software design. I.E., a little algorithm for problems you or I might encounter. Updated as I find better ways to do things. 
+Workflows/best practices for coding. I _should_ be updating this a lot, so said workflows should be pretty well thought out!
+
+I am **_very_** open to contributions, feedback, or any other form of help/communication!
 
 # Best methods of practice for X + Outlining and workflows: 
 My workflows for certain problems, where X is a problem, bug, question, ect.
