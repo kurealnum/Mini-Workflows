@@ -183,6 +183,19 @@ Take everything I and others say with a grain of salt. Figure out what works for
 
 Also, not to be the shameless plug, but I do write about similar topics on my [blog.](https://dev.to/kurealnum)
 
+#How to google it (properly!)
+A lot of information is likely taken from [this video](https://www.youtube.com/watch?v=cEBkvm0-rg0), sue me. Some of my own thoughts, experiences, and opinions will be mixed in there as well.
+
+"Googling it" is a really important skill to have, because who doesn't just copy and paste their error into google? Here's some helpful techniques:
+- Use quotations around your search term to force google to only give you exact matches
+- If you only want results from a certain site, enter the site like so: site:google.com (Only returns results from google.com)
+- If you don't want to find a certain result, use the "-" symbol like so: "good python frameworks -django"
+- Filter old, new, and _any range of_ content out with the after:, before:, and DATE..DATE operators like so: how to program in C++ after:2017
+- Use the wildcard operator (" * ") to find subdomains and come up with new ideas!
+- Search for certain file types with the filetype: operator like so: cute cats filetype:png
+- Look at some related sites with the related: operator like so: related:angular.io
+- Find the latest cached version of your website with the cached: operator like so: cached:yourwebsite
+
 <br></br>
 
 # TODO
