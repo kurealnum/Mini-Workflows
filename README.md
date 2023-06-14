@@ -116,7 +116,7 @@ Credit to *haekuh#0254* for this part ^^
 
 -Could you have multiple options for different cases?
 
--Did you whiteboard it?
+-Did you whiteboard it, and truly think through it?
 
 ### 2. Reference other code of yours
 
@@ -177,13 +177,8 @@ However, a major problem comes with said concept. That problem being projects; i
 I think tutorials are both a blessing and a curse. On one hand, it can be quite a pain to struggle through the basics of a language without some guiding you, but on the other hand, you could _(and probably will!)_ become very dependent on them. I feel like it's very easy for you to get sucked into an "easy" way of doing things, and not taking the time to struggle through projects/bugs on your own.
 
 Once in, Tutorial Hell is a hard thing to get out of. As I partially mentioned, it feels a lot better to understand a topic immediately, rather than really putting in the effort to have a deeper and more permanent understanding of it. As I've previously mentioned, I think that it's a lot better to sit down and struggle through a problem first, rather than looking at the answer, then memorizing the answer.
- 
-## Closing thoughts
-Take everything I and others say with a grain of salt. Figure out what works for you. Ideas like this shouldn't be all encompassing, but just an idea, in a sea of other ideas. 
 
-Also, not to be the shameless plug, but I do write about similar topics on my [blog.](https://dev.to/kurealnum)
-
-#How to google it (properly!)
+## How to google it (properly!)
 A lot of information is likely taken from [this video](https://www.youtube.com/watch?v=cEBkvm0-rg0), sue me. Some of my own thoughts, experiences, and opinions will be mixed in there as well.
 
 "Googling it" is a really important skill to have, because who doesn't just copy and paste their error into google? Here's some helpful techniques:
@@ -195,6 +190,11 @@ A lot of information is likely taken from [this video](https://www.youtube.com/w
 - Search for certain file types with the filetype: operator like so: cute cats filetype:png
 - Look at some related sites with the related: operator like so: related:angular.io
 - Find the latest cached version of your website with the cached: operator like so: cached:yourwebsite
+
+## Closing thoughts
+Take everything I and others say with a grain of salt. Figure out what works for you. Ideas like this shouldn't be all encompassing, but just an idea, in a sea of other ideas. 
+
+Also, not to be the shameless plug, but I do write about similar topics on my [blog.](https://dev.to/kurealnum)
 
 <br></br>
 
