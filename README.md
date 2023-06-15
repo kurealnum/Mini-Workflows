@@ -13,7 +13,7 @@ The 2 ***REALLY*** important things to do every time you have encounter a bug:
 This is a crucial part of almost every single one of my workflows, you'll see it mentioned again and again. Even if you're working in an editor with linting/syntax highlighting, still check it. I've missed plenty of important things because I thought that my editor would catch it.
 
 ### 2. Walk through your logic
-Whiteboarding is amazing here!
+Whiteboarding is an amazing practice here! Make sure to leave plenty of spaces between your "lines of code" so you can come back and change things later!
 <br></br>
 ## Learning DSA/Grinding Leetcode problems:
 This is a major learning experience for me, and it'll be changed as I go along!
