@@ -42,7 +42,7 @@ Before I knew about REACTO, I made up my own method of solving these problems:
 ### 1. Write the problem out:
 -Identify what you need to find to solve the problem
 
--Doesn't have to be on a whiteboard, just in comments
+-Ideally do this on a whiteboard (leaving plenty of space), but if you can't, do it in the comments.
 
 -Make sure your comments are friendly to ***you***
 
