@@ -1,13 +1,15 @@
 # Personal-Workflows
 Workflows/best practices for coding. I _should_ be updating this a lot, so said workflows should be pretty well thought out!
 
-I am **_very_** open to contributions, feedback, or any other form of help/communication!
+I am **_very_** open to contributions, feedback, or any other form of help/communication! One person writing this may, and likely will, create a very opinonated environment.
+
+Also, please keep in mind that this is not meant to be some rigid guideline that everyone follows. Take everything with a grain of salt.
 
 # Best methods of practice for X + Outlining and workflows: 
 My workflows for certain problems, where X is a problem, bug, question, ect.
 <br></br>
 ## The Big 2:
-The 2 ***REALLY*** important things to do every time you have encounter a bug:
+The 2 ***REALLY*** important things to do every time you encounter a bug:
 
 ### 1. Check the syntax
 This is a crucial part of almost every single one of my workflows, you'll see it mentioned again and again. Even if you're working in an editor with linting/syntax highlighting, still check it. I've missed plenty of important things because I thought that my editor would catch it.
