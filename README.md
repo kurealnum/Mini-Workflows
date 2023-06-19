@@ -201,5 +201,4 @@ Also, not to be the shameless plug, but I do write about similar topics on my [b
 <br></br>
 
 # TODO
-- Add a section on "How to google it" (with information from [this](https://www.youtube.com/watch?v=cEBkvm0-rg0) video)
-- Revise/change/add to best methods of practice
+- Nothing right now!
