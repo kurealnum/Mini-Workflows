@@ -49,7 +49,7 @@ Before I knew about REACTO, I made up my own method of solving these problems:
 -Make sure your comments are friendly to ***you***
 
 ### 2. Review your written problem a few times:
--Go back over it multiple times, check for so called "plot holes"
+-Go back over it a few times, check for "plot holes"
 
 >Is there anything that differs from the original prompt?
 
