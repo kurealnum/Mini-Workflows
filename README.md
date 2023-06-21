@@ -70,9 +70,9 @@ Before I knew about REACTO, I made up my own method of solving these problems:
 -If you can't find anything to completely redo, look at how you can optimize your current algorithm
 
 ### 5. When you finish:
--Reflect on negative tendencies, on any problems that you're not doing so well on. Make sure you don't repeat those.
+-Reflect on negative tendencies, on any subproblems that you're not doing so well on. Make sure to go back and practice/review anything that you had trouble with
 
--Write it out again. If there was a mistake, if there wasn't
+-Write it out again, if there was a mistake, and if there wasn't
 
 >Why did I come up with this solution?
 
