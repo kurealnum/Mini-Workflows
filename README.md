@@ -63,7 +63,7 @@ Before I knew about REACTO, I made up my own method of solving these problems:
 -Practice backtracking through your code; you'll often find yourself doing this when you realize that something needs to be changed
 
 ### 4. Revising your algorithm. 
--Take a step back and look at the bare minimum required to pass the testcases. Do you *really* need that whole array?
+-Optimize the overall running time first, then optimize constants. Consider what other data structures you could be using, and talk through the tradeoffs of each.
 
 -It's ok to completely redo something! Just make sure you save your working answer
 
