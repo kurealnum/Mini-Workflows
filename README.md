@@ -21,9 +21,9 @@ Whiteboarding is an amazing practice here! Make sure to leave plenty of spaces b
 This is a major learning experience for me, and it'll be changed as I go along!
 
 ### Random Notes:
--Data structures isn't just about organizing data, it's also about the operations that we use on those data structures 
+- Data structures isn't just about organizing data, it's also about the operations that we use on those data structures 
 
--***Blinds 75 list*** (the ex-facebooks devs list) is something that I would love to work through, I just need to have the time and whatnot. I'd also like to note that I actually want to learn DSA (Data Structures and Algorithms), and not just interviews.
+- ***Blinds 75 list*** (the ex-facebooks devs list) is something that I would love to work through, I just need to have the time and whatnot. I'd also like to note that I actually want to learn DSA (Data Structures and Algorithms), and not just interviews.
 
 ## Understanding Leetcode problems
 
@@ -42,113 +42,113 @@ Practice is the most important thing here. Other than that, make sure you actual
 Before I knew about REACTO, I made up my own method of solving these problems:
 
 ### 1. Write the problem out:
--Identify what you need to find to solve the problem
+- Identify what you need to find to solve the problem
 
--Ideally do this on a whiteboard (leaving plenty of space), but if you can't, do it in the comments.
+- Ideally do this on a whiteboard (leaving plenty of space), but if you can't, do it in the comments.
 
--Make sure your comments are friendly to ***you***
+- Make sure your comments are friendly to ***you***
 
 ### 2. Review your written problem a few times:
--Go back over it a few times, check for "plot holes"
+- Go back over it a few times, check for "plot holes"
 
->Is there anything that differs from the original prompt?
+- Is there anything that differs from the original prompt?
 
->Is there anything that I could do to make this better?
+- Is there anything that you could do to make this better?
 
 ### 3. Start coding:
--Explain the problem to yourself as you code
+- Explain the problem to yourself as you code
 
--Write it out. No matter what, walk yourself through a testcase on a whiteboard or something in similar fashion. 
+- Write it out. No matter what, walk yourself through a testcase on a whiteboard or something in similar fashion. 
 
--Practice backtracking through your code; you'll often find yourself doing this when you realize that something needs to be changed
+- Practice backtracking through your code; you'll often find yourself doing this when you realize that something needs to be changed
 
 ### 4. Revising your algorithm. 
--Optimize the overall running time first, then optimize constants. Consider what other data structures you could be using, and talk through the tradeoffs of each.
+- Optimize the overall running time first, then optimize constants. Consider what other data structures you could be using, and talk through the tradeoffs of each.
 
--It's ok to completely redo something! Just make sure you save your working answer
+- It's ok to completely redo something! Just make sure you save your working answer
 
--If you can't find anything to completely redo, look at how you can optimize your current algorithm
+- If you can't find anything to completely redo, look at how you can optimize your current algorithm
 
 ### 5. When you finish:
--Reflect on negative tendencies, on any subproblems that you're not doing so well on. Make sure to go back and practice/review anything that you had trouble with
+- Reflect on negative tendencies, on any subproblems that you're not doing so well on. Make sure to go back and practice/review anything that you had trouble with
 
--Write it out again, if there was a mistake, and if there wasn't
+- Write it out again, if there was a mistake, and if there wasn't
 
->Why did I come up with this solution?
+- Why did I come up with this solution?
 
->Do I need all of this code that I wrote, or is there a lot of boilerplate?
+- Do you need all of this code that you wrote, or is there a lot of boilerplate (this step is mainly for constants)?
 
->Is there something I could do differently? How can I make sure I do that next time?
+- Is there something you could do differently? How can you make sure you do that next time?
 
 Credit to *haekuh#0254* for this part ^^
 
 ### 5. "Post Problem":
--Once you're finished with the problem, write your solution down somewhere
+- Once you're finished with the problem, write your solution down somewhere
 
--You can't write or memorize the entire problem, so try and stick to a few sentences, one paragraph at most.
+- You can't write or memorize the entire problem, so try and stick to a few sentences, one paragraph at most.
 
--Google docs/sheets or any similar program works well for this
+- Google docs/sheets or any similar program works well for this
 <br></br>
 ## Encountering an incorrect function return
 
 ### 1. [The Big 2](#the-big-2)
 
 ### 2. Walk through the function by:
--Go past the function you're working in
+- Go past the function you're working in
 
--Go through every function that is called/used in said function
+- Go through every function that is called/used in said function
 
--Go into documentation if the function is built in
+- Go into documentation if the function is built in
 
--Figure out what it should be returning, and why
+- Figure out what it should be returning, and why
 
 ### 3. Minimize
--Take away as many functions as possible, and try and isolate the problem function
+- Take away as many functions as possible, and try and isolate the problem function
 
 ### 4. Find context
--Look at some other code that involves this function. What does it do differently/the same?
+- Look at some other code that involves this function. What does it do differently/the same?
 
--If it's your own function, attempt to isolate the sub-function (if you will), and do the same for that function
+- If it's your own function, attempt to isolate the sub-function (if you will), and do the same for that function
 <br></br>
 ## Encountering a bug
 ### 1. [The Big 2](#the-big-2)
 
 #### 1.5. If it's an algorithm:
--Are you considering all possible data structures?
+- Are you considering all possible data structures?
 
--Could you have multiple options for different cases?
+- Could you have multiple options for different cases?
 
--Did you whiteboard it, and truly think through it?
+- Did you whiteboard it, and truly think through it?
 
 ### 2. Reference other code of yours
 
 #### 2.5. Before you google it:
--Should I know this code?
+- Should I know this code?
 
--Should I be able to do this?
+- Should I be able to do this?
 
--Did I thoroughly complete steps 1-3?
+- Did I thoroughly complete steps 1-3?
 
 ### 3. Google it
 
 #### 3.5. Before you use GPT:
--Have you done everything else you could?
+- Have you done everything else you could?
 
--Are there any other personal methods that I could use?
+- Are there any other personal methods that I could use?
 
--Would a person be better suited to this question?
+- Would a person be better suited to this question?
 
 ### 4A. Ask a human being:
--There are plenty of amazing online communities that are here to help!
+- There are plenty of amazing online communities that are here to help!
 
--Places like [TPH (The Programmers Hangout)](https://discord.gg/programming) and language specific communities are frequently found on places like Discord and Reddit
+- Places like [TPH (The Programmers Hangout)](https://discord.gg/programming) and language specific communities are frequently found on places like Discord and Reddit
 
--GPT tends to be better for technicals, but past that, humans will always excel in the artistic design of code
+- GPT tends to be better for technicals, but past that, humans will always excel in the artistic design of code
 
 ### 4B. Ask GPT (Or a similar tool)
--Make sure you *completely* understand why you couldn't solve the problem
+- Make sure you *completely* understand why you couldn't solve the problem
 
--Practing similar problems isn't a horrible idea, althought it may be incredibly time consuming.
+- Practing similar problems isn't a horrible idea, althought it may be incredibly time consuming.
 
 <br></br>
 
