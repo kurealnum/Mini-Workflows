@@ -100,7 +100,7 @@ Credit to *haekuh#0254* for this part ^^
 
 - Go into documentation if the function is built in
 
-- Figure out what it should be returning, and why
+- Figure out what it should be returning, and why it should be returning that value
 
 ### 3. Minimize
 - Take away as many functions as possible, and try and isolate the problem function
