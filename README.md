@@ -16,6 +16,8 @@ This is a crucial part of almost every single one of my workflows, and you'll se
 
 ### 2. Walk through your logic
 Whiteboarding is an amazing practice here! Make sure to leave plenty of spaces between your "lines of code" so you can come back and change things later!
+
+Also, be prepared to whiteboard a little bit differently for every problem. One problem might require a flow chart of sorts, and another might require a diagram.
 <br></br>
 ## Learning DSA/Grinding Leetcode problems:
 This is a major learning experience for me, and it'll be changed as I go along!
