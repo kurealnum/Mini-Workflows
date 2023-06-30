@@ -118,7 +118,7 @@ Credit to *haekuh#0254* for this part ^^
 #### 1.5. If it's an algorithm:
 - Are you considering all possible data structures?
 
-- Could you have multiple options for different cases?
+- Are you running into an edge case?
 
 - Did you whiteboard it, and truly think through it?
 
@@ -154,7 +154,7 @@ Credit to *haekuh#0254* for this part ^^
 
 <br></br>
 
-# The mini blog!:
+# The "mini blog":
 
 ## Introduction/Journaling:
 *I'm 16, I'm not a psychologist :>*
