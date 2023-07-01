@@ -37,7 +37,7 @@ This is a major learning experience for me, and it'll be changed as I go along!
 5. Testing: pass the testcases
 6. Optimize: optimize the complexities (time and space) of your algorithm
 
-The above was written by by [Diego](https://www.youtube.com/channel/UC9s8Wy4D_4dsFjwiufqNAng)
+_The above was written by by [Diego](https://www.youtube.com/channel/UC9s8Wy4D_4dsFjwiufqNAng)_
 
 Practice is the most important thing here. Other than that, make sure you actually solve the problem each time. Here's my little "guide" (that I constantly update/change) to succesfully do Leetcode problems, and then actually absorb the information. 
 
