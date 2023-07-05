@@ -100,7 +100,7 @@ Credit to *haekuh#0254* for this part ^^
 
 <br>
 
-## Encountering an incorrect function return
+## Encountering an incorrect function return 🤖
 
 **1. [The Big 2](#the-big-2)**
 
@@ -119,7 +119,7 @@ Credit to *haekuh#0254* for this part ^^
 
 <br>
 
-## Encountering a bug
+## Encountering a bug 🐛
 **1. [The Big 2](#the-big-2)**
 
 **1.5. If it's an algorithm**
