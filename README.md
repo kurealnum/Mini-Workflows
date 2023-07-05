@@ -6,7 +6,7 @@
 ***
 
 <p align="center">
-Workflows/best practices for coding. I _should_ be updating this a lot, so said workflows should be pretty well thought out!
+Workflows/best practices for coding. I should be updating this a lot, so said workflows should be pretty well thought out!
 </p>
 
 <p align="center">
