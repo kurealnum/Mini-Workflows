@@ -65,14 +65,10 @@ Before I knew about REACTO, I made up my own method of solving these problems:
 > - Ideally do this on a whiteboard (leaving plenty of space), but if you can't, do it in the comments.
 > - Make sure your comments are friendly to ***you***
 
-<br>
-
 **2. Review your written problem a few times**
 > - Go back over it a few times, check for "plot holes"
 > - Is there anything that differs from the original prompt?
 > - Is there anything that you could do to make this better?
-
-<br>
 
 **3. Start coding**
 > - Explain the problem to yourself (and someone else, if someone else is present) as you code
