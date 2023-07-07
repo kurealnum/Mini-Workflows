@@ -17,7 +17,7 @@ Also, please keep in mind that this is not meant to be some rigid guideline that
 <br>
 
 # Best methods of practice for X + Outlining and workflows: 
-Workflows for certain problems, where X is a problem, bug, question, ect. As previously mentioned, nothing here is intended to be a rigid solution to every problem. These workflows are meant to be `guidelines on how to tackle certain problems` [(design-patterns-for-humans)](https://github.com/kamranahmedse/design-patterns-for-humans#introduction).
+Workflows for certain problems, where X is a problem, bug, question, ect. As previously mentioned, nothing here is intended to be a rigid solution to every problem. Similar to design patterns, these workflows are meant to be `guidelines on how to tackle certain problems` [(design-patterns-for-humans)](https://github.com/kamranahmedse/design-patterns-for-humans#introduction).
 
 <br>
 
