@@ -42,9 +42,7 @@ This is a major learning experience for me, and it'll be changed as I go along!
 
 > I'd also like to note that I actually want to learn DSA (Data Structures and Algorithms), and not just DSA for interviews. I want to understand the application of these algorithms (and I hope you do too!)
 
-<br>
-
-## Understanding Leetcode problems 📖
+### Understanding Leetcode problems 📖
 
 ***Use REACTO:***
 1. Repeat: make sure you do understand the problem.
