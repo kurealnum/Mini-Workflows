@@ -191,8 +191,3 @@ A lot of information is likely taken from [this video](https://www.youtube.com/w
 Take everything I and others say with a grain of salt. Figure out what works for you. Ideas like this shouldn't be all encompassing, but just an idea, in a sea of other ideas. 
 
 Also, not to be the shameless plug, but I do write about similar topics on my [blog.](https://dev.to/kurealnum)
-
-<br>
-
-# TODO
-- Nothing right now!
