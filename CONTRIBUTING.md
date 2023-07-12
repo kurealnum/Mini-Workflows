@@ -1,16 +1,16 @@
 # How to contribute
 As mentioned in the README, all contributions are welcome! If you want to contribute, try and:
 
-- Have general understanding of .md files
-- Stick to the general formatting of the README
+- Have general understanding of .md files  
 - Use proper grammar, but don't worry too much about punctuation
+- Stick to the general formatting of the README
 
 You might want to look at the formatting yourself, but as a general overview:
 
 <br>
 
 # Heading
-Some information about the subheading, maybe an introduction. The spacing between headers should be as follows:
+Some information about the subheading, maybe an introduction would go here. The spacing might look a bit weird on smaller headers, but in my opinion it looks fine on larger ones. The spacing between headers should be as follows:
 ```
 # Heading
 Text here
