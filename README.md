@@ -38,7 +38,7 @@ This is a major learning experience for me, and it'll be changed as I go along!
 ### Random Notes:
 >Data structures isn't just about organizing data, it's also about the operations that we use on those data structures 
 
->***Blinds 75 list is a major TODO for me;*** (the ex-facebooks devs list) Something that I would love to work thorugh, I just need to have the time and whatnot
+>***Blinds 75 list (the ex-facebooks devs list) is a major TODO for me***. It's certianly something that I would love to work thorugh, I just need to have the time and whatnot
 
 > I'd also like to note that I actually want to learn DSA (Data Structures and Algorithms), and not just DSA for interviews. I want to understand the application of these algorithms (and I hope you do too!)
 
