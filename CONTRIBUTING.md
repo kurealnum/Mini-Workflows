@@ -10,7 +10,7 @@ You might want to look at the formatting yourself, but as a general overview:
 <br>
 
 # Heading
-Some information about the subheading, maybe an introduction would go here. The spacing might look a bit weird on smaller headers, but in my opinion it looks fine on larger ones. The spacing between headers should be as follows:
+Some information about the heading, maybe an introduction would go here. The spacing might look a bit weird on smaller headers, but in my opinion it looks fine on larger ones. The spacing between headers should be as follows:
 ```
 # Heading
 Text here
