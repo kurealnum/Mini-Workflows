@@ -146,6 +146,21 @@ Credit to *haekuh#0254* for this part ^^
 
 <br>
 
+## How to google it (properly!) 🔍
+A lot of information is likely taken from [this video](https://www.youtube.com/watch?v=cEBkvm0-rg0). Some of my own thoughts, experiences, and opinions will be mixed in there as well.
+
+"Googling it" is a really important skill to have, because who doesn't just copy and paste their error into google? Here's some helpful techniques:
+> - Use quotations around your search term to force google to only give you exact matches
+> - If you only want results from a certain site, enter the site like so: site:google.com (Only returns results from google.com)
+> - If you don't want to find a certain result, use the "-" symbol like so: "good python frameworks -django"
+> - Filter old, new, and _any range of_ content out with the after:, before:, and DATE..DATE operators like so: how to program in C++ after:2017
+> - Use the wildcard operator (" * ") to find subdomains and come up with new ideas!
+> - Search for certain file types with the filetype: operator like so: cute cats filetype:png
+> - Look at some related sites with the related: operator like so: related:angular.io
+> - Find the latest cached version of your website with the cached: operator like so: cached:yourwebsite
+
+<br>
+
 # The "mini blog":
 
 ## Introduction/Journaling 📝
@@ -173,19 +188,6 @@ However, a major problem comes with said concept. That problem being projects; i
 I think tutorials are both a blessing and a curse. On one hand, it can be quite a pain to struggle through the basics of a language without some guiding you, but on the other hand, you could _(and probably will!)_ become very dependent on them. I feel like it's very easy for you to get sucked into an "easy" way of doing things, and not taking the time to struggle through projects/bugs on your own.
 
 Once in, Tutorial Hell is a hard thing to get out of. As I partially mentioned, it feels a lot better to understand a topic immediately, rather than really putting in the effort to have a deeper and more permanent understanding of it. As I've previously mentioned, I think that it's a lot better to sit down and struggle through a problem first, rather than looking at the answer, then memorizing the answer.
-
-## How to google it (properly!) 🔍
-A lot of information is likely taken from [this video](https://www.youtube.com/watch?v=cEBkvm0-rg0), sue me. Some of my own thoughts, experiences, and opinions will be mixed in there as well.
-
-"Googling it" is a really important skill to have, because who doesn't just copy and paste their error into google? Here's some helpful techniques:
-- Use quotations around your search term to force google to only give you exact matches
-- If you only want results from a certain site, enter the site like so: site:google.com (Only returns results from google.com)
-- If you don't want to find a certain result, use the "-" symbol like so: "good python frameworks -django"
-- Filter old, new, and _any range of_ content out with the after:, before:, and DATE..DATE operators like so: how to program in C++ after:2017
-- Use the wildcard operator (" * ") to find subdomains and come up with new ideas!
-- Search for certain file types with the filetype: operator like so: cute cats filetype:png
-- Look at some related sites with the related: operator like so: related:angular.io
-- Find the latest cached version of your website with the cached: operator like so: cached:yourwebsite
 
 ## Closing thoughts 💭
 Take everything I and others say with a grain of salt. Figure out what works for you. Ideas like this shouldn't be all encompassing, but just an idea, in a sea of other ideas. 
