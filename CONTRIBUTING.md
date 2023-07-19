@@ -38,5 +38,8 @@ If you have a workflow that has 3 steps in it, write it like this
 ### Sub-subheading
 Used for smaller topics inside a workflow section, an example sub-subheading might be "Notes"
 
+### Give credit
+If you ever take information from a certain website, user, etc., please credit them!
+
 
 
