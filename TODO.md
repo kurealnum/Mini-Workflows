@@ -3,6 +3,9 @@
 - Find and contribute more topics!
 - Change the repo name? I don't particularly like it right now.
 - Add/update resources for certain topics
+- Move some notes from [my notes](https://drive.google.com/drive/folders/1dsKtlQvBVS0YjssJrlLmZ9SU0yh8zz9m) as workflows/ideas
+
+### Name Ideas
 
 I asked GPT for some name ideas, and here's what it gave me:
 - Open Collaborations
