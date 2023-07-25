@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-  <img src="./.github/Personal_Workflows.png"/>
+  <img src="./.github/Mini_Workflows.png"/>
 </p>
 
 ***
