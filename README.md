@@ -132,7 +132,7 @@ Credit to *haekuh#0254* for this part ^^
 
 **3.5. Before you use AI/ask a human**
 > - Have you done everything else you could?
-> - Are there any other personal methods that I could use?
+> - Are there any other methods that I could use?
 > - Would a person be better suited to this question?
 
 **4A. Ask a human being**
