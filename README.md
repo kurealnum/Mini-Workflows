@@ -161,10 +161,11 @@ A lot of information is likely taken from [this video](https://www.youtube.com/w
 
 <br>
 
-# The "mini blog":
+# Thoughts, opinions, and ideas:
+This is just a collection of me rambling about random things I'm thinking about (computer/workflow related, of course)
 
-## Introduction/Journaling 📝
-*I'm 16, I'm not a psychologist :>*
+## Opening thoughts 📝
+*I'm 16, I'm not a psychologist*
 
 All of these workflows are really intended for ***education***, not just for you to code as quickly as possible. That's the secondary goal of course, but if that was truly the primary goal, there would be one section telling you to go straight to ChatGPT.
 
