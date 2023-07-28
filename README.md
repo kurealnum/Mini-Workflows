@@ -14,6 +14,10 @@ I am <b><i>very</b></i> open to contributions, feedback, or any other form of he
 Also, please keep in mind that this is not meant to be some rigid guideline that everyone follows. Take everything with a grain of salt.
 </p>
 
+<p align="center">
+All of this is a major learning experience for me, and I'll continuously refine the workflows, notes, and ideas in this file!
+</p>
+
 <br>
 
 # Best methods of practice for X + Outlining and workflows: 
@@ -31,16 +35,19 @@ The 2 ***REALLY*** important things to do every time you encounter a bug:
 >Whiteboarding is an amazing practice here! Make sure to leave plenty of spaces between your "lines of code" so you can come back and change things later!
 
 Also, be prepared to whiteboard a little bit differently for every problem. One problem might require a flow chart of sorts, and another might require a diagram. Adaptability is important!
+
+
+
 <br></br>
+
+
+# Mini Workflows
+
 ## Learning DSA/working through Leetcode problems 👨‍💻
-This is a major learning experience for me, and it'll be changed as I go along!
+When you're learning, keep in mind that:
+>Data structures aren't just about organizing data, it's also about the operations that we use on those data structures.
 
-### Random Notes:
->Data structures isn't just about organizing data, it's also about the operations that we use on those data structures 
-
->***Blinds 75 list (the ex-facebooks devs list) is a major TODO for me***. It's certianly something that I would love to work thorugh, I just need to have the time and whatnot
-
-> I'd also like to note that I actually want to learn DSA (Data Structures and Algorithms), and not just DSA for interviews. I want to understand the application of these algorithms (and I hope you do too!)
+> Try to gain a deeper understanding of DSA (Data Structures and Algorithms), and avoid memorizing the answers.
 
 ### Understanding Leetcode problems 📖
 
@@ -164,7 +171,7 @@ A lot of information is likely taken from [this video](https://www.youtube.com/w
 # Thoughts, opinions, and ideas:
 This is just a collection of me rambling about random things I'm thinking about (computer/workflow related, of course)
 
-## Opening thoughts 📝
+## Introduction 📝
 *I'm 16, I'm not a psychologist*
 
 All of these workflows are really intended for ***education***, not just for you to code as quickly as possible. That's the secondary goal of course, but if that was truly the primary goal, there would be one section telling you to go straight to ChatGPT.
@@ -176,7 +183,7 @@ Planning is so incredibly important. The only time I don't completely plan my so
 If you don't plan your work out, it becomes so much more tiring to keep track of your goals, and your current place in those goals. This kinda flows into the next section, Breaks.
 
 ## Breaks 💤
-Breaks are ***very*** important. Whether you want to be as refined as the Pomodoro technique, or you just take breaks sporadically, like me, breaks are incredibly imporant.
+Breaks are also ***very*** important! Whether you want to be as refined as the Pomodoro technique, or you just take breaks sporadically, like me, breaks are incredibly imporant.
 
 I also feel like your mind works a lot better in the background (i.e., the subconscious), than it does in your “conscious” state. What I’m getting at is, if you’re stuck on something, go stare at something and think about something else. Professional chess players do it, so it must work, right? 
 
@@ -188,9 +195,9 @@ However, a major problem comes with said concept. That problem being projects; i
 ## Tutorial Hell 👨‍🏫
 I think tutorials are both a blessing and a curse. On one hand, it can be quite a pain to struggle through the basics of a language without some guiding you, but on the other hand, you could _(and probably will!)_ become very dependent on them. I feel like it's very easy for you to get sucked into an "easy" way of doing things, and not taking the time to struggle through projects/bugs on your own.
 
-Once in, Tutorial Hell is a hard thing to get out of. As I partially mentioned, it feels a lot better to understand a topic immediately, rather than really putting in the effort to have a deeper and more permanent understanding of it. As I've previously mentioned, I think that it's a lot better to sit down and struggle through a problem first, rather than looking at the answer, then memorizing the answer.
+Once in, Tutorial Hell is a hard thing to get out of. As I partially mentioned, it feels a lot better to understand a topic immediately, rather than really putting in the effort to have a deeper and more permanent understanding of it. As I've previously mentioned, I think that it's a lot better to sit down and struggle through a problem first, rather than simply looking at the answer.
 
 ## Closing thoughts 💭
-Take everything I and others say with a grain of salt. Figure out what works for you. Ideas like this shouldn't be all encompassing, but just an idea, in a sea of other ideas. 
+Take everything I and others say with a grain of salt. Figure out what works for you. Ideas like this shouldn't be encompassing, but just an idea, in a sea of other ideas. 
 
-Also, not to be the shameless plug, but I do write about similar topics on my [blog.](https://dev.to/kurealnum)
+Finally, not to be the shameless plug, but I do write about similar topics on my [blog.](https://dev.to/kurealnum)
