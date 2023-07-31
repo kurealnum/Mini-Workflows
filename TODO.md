@@ -17,4 +17,11 @@ Just a general outline!
 Opinions?
 
 # User flows
-Before you even start desigining your website, you should map out where you want the user to go, from start to finish. It might look something like this:
+Before you even start desigining your website, you should map out where you want the user to go, from start to finish. It might look something like this: 
+<br>
+<p align="center">
+  <img src="./.github/userflowexample.png"/>
+</p>
+<br>
+
+While this is a very basic rendition of a user flow, it does give you a good idea of what one might look like. In my opinion, you shouldn't stress over it too much, just make sure it looks generally nice (and complete!).
