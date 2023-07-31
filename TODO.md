@@ -15,3 +15,6 @@ Just a general outline!
 6. Testing
 
 Opinions?
+
+# User flows
+Before you even start desigining your website, you should map out where you want the user to go, from start to finish. It might look something like this:
