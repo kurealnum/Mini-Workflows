@@ -16,7 +16,23 @@ Just a general outline!
 
 Opinions?
 
-# User flows
+I'm working on this in the TODO file because I don't know exactly where I want to put it right now, but I will find a place for it!
+
+<br></br>
+<br></br>
+<br></br>
+
+# UI/UX/General website design
+Before you start reading, just keep this in mind:
+> All of this is a major learning experience for me, and I'll continuously refine the workflows, notes, and ideas in this file!
+
+Just keep that in mind, and if there's anything you disagree with, feel free make a pull request!
+
+## Technologies
+Here's some technologies you might want to consider when desigining a UI or optimizing UX!
+- [Figma](https://www.figma.com)
+
+## User flows
 Before you even start desigining your website, you should map out where you want the user to go, from start to finish. It might look something like this: 
 <br>
 <p align="center">
@@ -26,7 +42,7 @@ Before you even start desigining your website, you should map out where you want
 
 While this is a very basic rendition of a user flow, it does give you a good idea of what one might look like. In my opinion, you shouldn't stress over it too much, just make sure it looks generally nice (and complete!).
 
-# Wireframing
+## Wireframing
 Now that you have an idea of where you want the pages to go, it's time to start desigining the page! The process will be similar to creating your userflow, except a little bit more in depth. 
 
 When you design your wireframe, focus on creating connected pages, layouts in said pages, and anything else like that! 
