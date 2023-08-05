@@ -54,14 +54,14 @@ While this is a very basic rendition of a user flow, it does give you a good ide
 
 Now that you have an idea of where you want the pages to go, it's time to start desigining the page! The process will be similar to creating your userflow, except a little bit more in depth.
 
-When you design your wireframe, focus on creating connected pages, layouts in said pages, and anything else like that!
-
-In case you're confused, here's a very simple example (referencing our previous image in [user flows](#user-flows)):
+When you design your wireframe, focus on creating connected pages, layouts in said pages, and anything else like that! In case you're confused, here's a very simple example:
 
 <br>
 <p align="center">
-  <img src="./.github/wireframing.png"/>
+  <img src="./.github/Main.png"/>
 </p>
 <br>
 
-Additionally, if you want to see how this looks in a real world example, check out the [Figma!](https://www.figma.com/file/Ch27DuyaY8za2Y3TAQr7Ls/MiniWorkflowsExamples?type=design&node-id=0-1&mode=design&t=DmqHs5sV2cwZ3ho0-0)
+As you can see, this provides us with a nice little outline from which we can build off of! For example, maybe we know that we want a title card on the front page. Our leftmost design (see above) has a nice place for that, but it also wouldn't be very hard to move that title card around a little bit.
+
+Additionally, if you want to see how this looks in a real world example, check out the [Figma](https://www.figma.com/file/Ch27DuyaY8za2Y3TAQr7Ls/MiniWorkflowsExamples?type=design&node-id=0-1&mode=design&t=DmqHs5sV2cwZ3ho0-0) that I designed this on!
