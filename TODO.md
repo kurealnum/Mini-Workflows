@@ -65,3 +65,18 @@ When you design your wireframe, focus on creating connected pages, layouts in sa
 As you can see, this provides us with a nice little outline from which we can build off of! For example, maybe we know that we want a title card on the front page. Our leftmost design (see above) has a nice place for that, but it also wouldn't be very hard to move that title card around a little bit.
 
 Additionally, if you want to see how this looks in a real world example, check out the [Figma](https://www.figma.com/file/Ch27DuyaY8za2Y3TAQr7Ls/MiniWorkflowsExamples?type=design&node-id=0-1&mode=design&t=DmqHs5sV2cwZ3ho0-0) that I designed this on!
+
+## Design System
+
+An important part of design systems are reusable components (yes, like React!). They can be very intricate and extensive, but in general, they're normally just something along the lines of:
+
+- Color palette
+- Styling for log in/log out/register buttons
+- Main font(s)
+- ...
+
+And the list goes on! Just remember that this is a very simple example, and it might get a bit more fancy in the real world.
+
+### My favorite way to choose a color palette
+
+I don't know about you, but I've _always_ struggled with choosing a nice color palette. Any time I find or create one, there's either one color that I don't like, or I just can't figure out how to properly utilize the palette on a real website. This section should (hopefully) help you figure that out!
