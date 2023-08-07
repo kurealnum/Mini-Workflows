@@ -80,3 +80,18 @@ And the list goes on! Just remember that this is a very simple example, and it m
 ### My favorite way to choose a color palette
 
 I don't know about you, but I've _always_ struggled with choosing a nice color palette. Any time I find or create one, there's either one color that I don't like, or I just can't figure out how to properly utilize the palette on a real website. This section should (hopefully) help you figure that out!
+
+#### "Sorting" your colors
+
+It can be a bit tricky to figure out how to "sort" your colos, so to speak. Here's how I like to do it:
+
+- Background
+- Text
+- Primary
+- Secondary
+- Accent
+- 2 Semantic colors (eg. an error and a success color)
+
+Also, it's entirely ok to have gradients and shades of these colors! Just try and _primarily_ use the your sorted colors.
+
+#### Picking a color palette
