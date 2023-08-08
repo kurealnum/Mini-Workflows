@@ -83,7 +83,7 @@ I don't know about you, but I've _always_ struggled with choosing a nice color p
 
 #### "Sorting" your colors
 
-It can be a bit tricky to figure out how to "sort" your colos, so to speak. Here's how I like to do it:
+It can be a bit tricky to choose a color palette without figuring out how to "sort" your colors. Here's how I like to do it:
 
 - Background
 - Text
@@ -95,3 +95,9 @@ It can be a bit tricky to figure out how to "sort" your colos, so to speak. Here
 Also, it's entirely ok to have gradients and shades of these colors! Just try and _primarily_ use the your sorted colors.
 
 #### Picking a color palette
+
+First off, find a basic color that you like. Ideally, this color (or something similar to it) will be your primary color. Now, you're going to use this color to generate some example palettes!
+
+You can use tools like [ColorSpace](https://mycolor.space/?hex=%2300766B&sub=1) and/or [PaletteGenerator](https://realtimecolors.com/palettes/?colors=e9e4f6-05020b-5E40BA-17102e-7756d8#generator) (from Realtime colors) to find and create color palettes?
+
+Are you having trouble picking a color/color palette to work off of? Try and work off of certain palettes, like an analogous palette. If that doesn't work, maybe you don't like the primary color that you chose. In that case, pick a new color, and create some more palettes off of it!
