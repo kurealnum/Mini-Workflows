@@ -108,7 +108,7 @@ Here's a good rule of thumb; your primary color will normally be in the upper ri
 </p>
 <br>
 
-This will normally result in a color that is bright enough to draw attention, but not bright enough to be annoying.
+This will normally result in a color that is bright enough to draw attention, but not bright enough to be annoying. _P.S: Credit to [UX Tool's](https://www.youtube.com/watch?v=yYwEnLYT55c) video for this idea_
 
 Also, if you're having trouble coming up with primary color ideas, you can use tools like [ColorSpace](https://mycolor.space/?hex=%2300766B&sub=1) and/or [PaletteGenerator](https://realtimecolors.com/palettes/?colors=e9e4f6-05020b-5E40BA-17102e-7756d8#generator) to find and create color palette ideas.
 
