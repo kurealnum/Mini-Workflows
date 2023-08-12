@@ -77,7 +77,9 @@ An important part of design systems are reusable components (yes, like React!). 
 
 And the list goes on! Just remember that this is a very simple example, and it might get a bit more fancy in the real world.
 
-### My favorite way to choose a color palette
+<br>
+
+### Color palettes,and how to choose one
 
 I don't know about you, but I've _always_ struggled with choosing a nice color palette. Any time I find or create one, there's either one color that I don't like, or I just can't figure out how to properly utilize the palette on a real website. This section should (hopefully) help you figure that out!
 
@@ -92,10 +94,22 @@ It can be a bit tricky to choose a color palette without figuring out how to "so
 - Accent
 - 2 Semantic colors (eg. an error and a success color)
 
-You might hear some people say that you should have exactly 9 shades of each of your colors, and while they aren't wrong, I find that a bit excessive for most projects. If I need a lighter or darker shade, I generally just create that shade when I need to.
+You might hear some people say that you should have exactly 9 shades of each of your colors, and while they aren't wrong, I find that a bit excessive for most projects. If I need a lighter or darker shade, I just create that shade when I need to.
 
 #### Picking a primary color
 
-First off, find a basic color that you like. Ideally, this color (or something similar to it) will be your primary color. Now, you're going to use this color to generate some example palettes!
+First off, find a basic color that you like. Ideally, this color (or something similar to it) will be your primary color. If you're working off of a preexisting brand, then your primary color might just be your brand color. Whatever it is, just make sure it's not too glaring! Neon green might be a little bit tricky (but not impossible!) to design a UI around.
 
-Also, if you're having trouble coming up with primary color ideas, you can use tools like [ColorSpace](https://mycolor.space/?hex=%2300766B&sub=1) and/or [PaletteGenerator](https://realtimecolors.com/palettes/?colors=e9e4f6-05020b-5E40BA-17102e-7756d8#generator) (from Realtime colors) to find and create color palette ideas.
+Here's a good rule of thumb; your primary color will normally be in the upper right section of the color picker. For example:
+
+<br>
+<p align="center">
+  <img src="./.github/primarycolor.png"/>
+</p>
+<br>
+
+This will normally result in a color that is bright enough to draw attention, but not bright enough to be annoying.
+
+Also, if you're having trouble coming up with primary color ideas, you can use tools like [ColorSpace](https://mycolor.space/?hex=%2300766B&sub=1) and/or [PaletteGenerator](https://realtimecolors.com/palettes/?colors=e9e4f6-05020b-5E40BA-17102e-7756d8#generator) to find and create color palette ideas.
+
+#### Picking a secondary color
