@@ -37,6 +37,9 @@ Just keep that in mind, and if there's anything you disagree with, feel free mak
 Here's some technologies you might want to consider when desigining a UI or optimizing UX!
 
 - [Figma](https://www.figma.com) - Good for general design
+- [PaletteGenerator](https://realtimecolors.com/palettes/?colors=e9e4f6-05020b-5E40BA-17102e-7756d8#generator) - Color palette generator
+- [ColorSpace](https://mycolor.space/?hex=%2300766B&sub=1) - Another color palette generator
+- [Adobe Color Wheel](https://color.adobe.com/create/color-wheel) - A very in-depth color wheel for creating color harmonies
 
 ## User flows
 
@@ -110,6 +113,8 @@ Here's a good rule of thumb; your primary color will normally be in the upper ri
 
 This will normally result in a color that is bright enough to draw attention, but not bright enough to be annoying. _P.S: Credit to [UX Tool's](https://www.youtube.com/watch?v=yYwEnLYT55c) video for this idea_
 
-Also, if you're having trouble coming up with primary color ideas, you can use tools like [ColorSpace](https://mycolor.space/?hex=%2300766B&sub=1) and/or [PaletteGenerator](https://realtimecolors.com/palettes/?colors=e9e4f6-05020b-5E40BA-17102e-7756d8#generator) to find and create color palette ideas.
+Also, if you're having trouble coming up with primary color ideas, you can use tools like [ColorSpace](https://mycolor.space/?hex=%2300766B&sub=1) or [PaletteGenerator](https://realtimecolors.com/palettes/?colors=e9e4f6-05020b-5E40BA-17102e-7756d8#generator) to generate palettes, which you can pick different colors off of. However, I don't personally recommend using these tools to create your _entire_ palette.
 
 #### Picking a secondary color
+
+Your secondary color should stand out (but not in an obnoxious way), and it should compliment your primary color.
