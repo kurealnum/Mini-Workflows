@@ -117,4 +117,4 @@ Also, if you're having trouble coming up with primary color ideas, you can use t
 
 #### Picking a secondary color
 
-Your secondary color should stand out (but not in an obnoxious way), and it should compliment your primary color.
+Your secondary color should stand out (but not in an obnoxious way), and it should compliment your primary color. When choosing a secondary color, I like to use the [Adobe Color Wheel](https://color.adobe.com/create/color-wheel). You can input a primary color, and then apply different color harmonies to see which one looks best!
