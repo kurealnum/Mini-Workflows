@@ -26,7 +26,7 @@ I'm working on this in the TODO file because I don't know exactly where I want t
 
 # UI/UX/General website design
 
-Before you start reading, just keep this in mind:
+Before you start reading, remember that:
 
 > All of this is a major learning experience for me, and I'll continuously refine the workflows, notes, and ideas in this file!
 
@@ -34,12 +34,12 @@ Just keep that in mind, and if there's anything you disagree with, feel free mak
 
 ## Technologies
 
-Here's some technologies you might want to consider when desigining a UI or optimizing UX!
+Here are some technologies you might want to consider when desigining a UI or optimizing UX!
 
-- [Figma](https://www.figma.com) - Good for general design
+- [Figma](https://www.figma.com) - Good for designing, wireframing, and all sorts of things
 - [PaletteGenerator](https://realtimecolors.com/palettes/?colors=e9e4f6-05020b-5E40BA-17102e-7756d8#generator) - Color palette generator
 - [ColorSpace](https://mycolor.space/?hex=%2300766B&sub=1) - Another color palette generator
-- [Adobe Color Wheel](https://color.adobe.com/create/color-wheel) - A very in-depth color wheel for creating color harmonies
+- [Adobe Color Wheel](https://color.adobe.com/create/color-wheel) - A very in-depth/technical color wheel for creating color harmonies
 
 ## User flows
 
@@ -71,7 +71,7 @@ Additionally, if you want to see how this looks in a real world example, check o
 
 ## Design System
 
-An important part of design systems are reusable components (yes, like React!). They can be very intricate and extensive, but in general, they're normally just something along the lines of:
+An important part of design systems are reusable components (yes, like React!). They can be very intricate and extensive, but in general, they're just something along the lines of:
 
 - Color palette
 - Styling for log in/log out/register buttons
