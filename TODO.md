@@ -73,14 +73,12 @@ Additionally, if you want to see how this looks in a real world example, check o
 
 An important part of design systems are reusable components (yes, like React!). They can be very intricate and extensive, but in general, they're just something along the lines of:
 
-- Color palette
-- Styling for log in/log out/register buttons
+- [Color palette](#color-palettesand-how-to-choose-one)
+- Styling for certain buttons
 - Main font(s)
 - ...
 
 And the list goes on! Just remember that this is a very simple example, and it might get a bit more fancy in the real world.
-
-<br>
 
 ### Color palettes,and how to choose one
 
@@ -98,6 +96,10 @@ It can be a bit tricky to choose a color palette without figuring out how to "so
 - 2 Semantic colors (eg. an error and a success color)
 
 You might hear some people say that you should have exactly 9 shades of each of your colors, and while they aren't wrong, I find that a bit excessive for most projects. If I need a lighter or darker shade, I just create that shade when I need to.
+
+#### The 60-30-10 rule
+
+You'll almost definitley see this term at somepoint, and all it's saying is that 60% of your designs color should be your primary, 30% should be your secondary, and 10% should be your accent. Of course, it's not a hard and fast rule, but more ofjust a general guideline.
 
 #### Picking a primary color
 
@@ -118,3 +120,7 @@ Also, if you're having trouble coming up with primary color ideas, you can use t
 #### Picking a secondary color
 
 Your secondary color should stand out (but not in an obnoxious way), and it should compliment your primary color. When choosing a secondary color, I like to use the [Adobe Color Wheel](https://color.adobe.com/create/color-wheel). You can input a primary color, and then apply different color harmonies to see which one looks best!
+
+#### Picking an accent color
+
+This is the tricky part, at least for me.
