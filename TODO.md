@@ -123,4 +123,4 @@ Your secondary color should stand out (but not in an obnoxious way), and it shou
 
 #### Picking an accent color
 
-This is the tricky part, at least for me.
+This can be the tricky part, or this might be the easy part. Your accent color should both accent _and_ support your primary, secondary, and any other colors/shades that you might have. A good example is the blue on Facebook. Most of Facebook is gray/white, but the portions of it that aren't have blue highlights, so it makes the overall design feel blue, in a nice way!
