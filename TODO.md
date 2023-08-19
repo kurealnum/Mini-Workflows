@@ -32,14 +32,21 @@ Before you start reading, remember that:
 
 Just keep that in mind, and if there's anything you disagree with, feel free make a pull request!
 
-## Technologies
+## Resources
 
-Here are some technologies you might want to consider when desigining a UI or optimizing UX!
+A collection of resources that you might want to consider when desigining a UI or optimizing UX!
+
+#### Tools
 
 - [Figma](https://www.figma.com) - Good for designing, wireframing, and all sorts of things
 - [PaletteGenerator](https://realtimecolors.com/palettes/?colors=e9e4f6-05020b-5E40BA-17102e-7756d8#generator) - Color palette generator
 - [ColorSpace](https://mycolor.space/?hex=%2300766B&sub=1) - Another color palette generator
 - [Adobe Color Wheel](https://color.adobe.com/create/color-wheel) - A very in-depth/technical color wheel for creating color harmonies
+
+#### Videos
+
+- [How to pick the right colors for your website or app](https://www.youtube.com/watch?v=ewRYw4pnKQU)
+- [How to make UI color palettes](https://www.youtube.com/watch?v=yYwEnLYT55c)
 
 ## User flows
 
