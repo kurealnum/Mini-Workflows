@@ -130,4 +130,12 @@ Your secondary color should stand out (but not in an obnoxious way), and it shou
 
 #### Picking an accent color
 
-This can be the tricky part, or this might be the easy part. Your accent color should both accent _and_ support your primary, secondary, and any other colors/shades that you might have. A good example is the blue on Facebook. Most of Facebook is gray/white, but the portions of it that aren't have blue highlights, so it makes the overall design feel blue, in a nice way!
+This can be the tricky part, or this might be the easy part. Your accent color should both accent _and_ support your primary, secondary, and any other colors/shades that you might have.
+
+A good example is the blue on Facebook. Most of Facebook is gray/white, but the portions of it that aren't have blue highlights, so it makes the overall design feel blue, in a nice way!
+
+On the topic of picking an accent color, yet again, I like to use the [Adobe Color Wheel](https://color.adobe.com/create/color-wheel), and find something that accents my primary color.
+
+### Utlizing your color palette
+
+Now that you have your color palette, what the heck should you do with it?
