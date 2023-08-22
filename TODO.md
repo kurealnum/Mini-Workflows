@@ -139,3 +139,7 @@ On the topic of picking an accent color, yet again, I like to use the [Adobe Col
 ### Utlizing your color palette
 
 Now that you have your color palette, what the heck should you do with it?
+
+If you haven't created your wireframe yet, go ahead and do that. In my opinion, the best thing to do is to fill your wireframe in with your color palette. I.e, go ahead and design everything on grayscale, and once you're happy with how it looks, use your color palette to color it in!
+
+We're doing this because in my (rather short) experience, it's very challenging to create a new object _and_ color it in at the same time. But hey, if that works for you, go for it!
