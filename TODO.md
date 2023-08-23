@@ -76,6 +76,8 @@ As you can see, this provides us with a nice little outline from which we can bu
 
 Additionally, if you want to see how this looks in a real world example, check out the [Figma](https://www.figma.com/file/Ch27DuyaY8za2Y3TAQr7Ls/MiniWorkflowsExamples?type=design&node-id=0-1&mode=design&t=DmqHs5sV2cwZ3ho0-0) that I designed this on!
 
+Finally, just keep it super simple (KISS). No one likes a web page with 13 different buttons. I would personally advise you to design your wireframe very minimalistically, as to avoid confusion in the future.
+
 ## Design System
 
 An important part of design systems are reusable components (yes, like React!). They can be very intricate and extensive, but in general, they're just something along the lines of:
@@ -143,3 +145,17 @@ Now that you have your color palette, what the heck should you do with it?
 If you haven't created your wireframe yet, go ahead and do that. In my opinion, the best thing to do is to fill your wireframe in with your color palette. I.e, go ahead and design everything on grayscale, and once you're happy with how it looks, use your color palette to color it in!
 
 We're doing this because in my (rather short) experience, it's very challenging to create a new object _and_ color it in at the same time. But hey, if that works for you, go for it!
+
+And again, if you haven't considered it already, consider using the 60/30/10 rule. It's incredibly helpful when it comes to desigining a UI.
+
+## Designing your UI (finally!)
+
+That was a long section, wasn't it! Now that you have everything in your design system ready to go, it's time to start designing. Here's some things that I like to keep in mind while I'm designing:
+
+- Creativity may play a major role, but a lot of UI design is, in my opinion, following some general rules and guidelines
+- Visual hierarchy helps show the importance of items
+- Contrast helps distinguish elements
+- Balance helps moderate the spacing of elements
+- Consistency helps keep elements harmonical and avoids confusion
+- Simplicity (remember KISS?) helps keep things straightforward
+- Feedback keeps users engaged
