@@ -132,17 +132,17 @@ Your secondary color should stand out (but not in an obnoxious way), and it shou
 
 #### Picking an accent color
 
-This can be the tricky part, or this might be the easy part. Your accent color should both accent _and_ support your primary, secondary, and any other colors/shades that you might have.
+In my experience, this is either the easiest part or the hardest part. Your accent color should accent your primary, secondary, and any other colors/shades that you might have.
 
-A good example is the blue on Facebook. Most of Facebook is gray/white, but the portions of it that aren't have blue highlights, so it makes the overall design feel blue, in a nice way!
+A good example is the blue on Facebook. Most of Facebook is gray/white, but the portions of it that aren't have blue highlights, so it makes the overall design feel blue, but not in an overbearing or negative way!
 
-On the topic of picking an accent color, yet again, I like to use the [Adobe Color Wheel](https://color.adobe.com/create/color-wheel), and find something that accents my primary color.
+When you get around to picking your accent color, yet again, I like to use the [Adobe Color Wheel](https://color.adobe.com/create/color-wheel), and optimally, find something that accents my primary color.
 
 ### Utlizing your color palette
 
 Now that you have your color palette, what the heck should you do with it?
 
-If you haven't created your wireframe yet, go ahead and do that. In my opinion, the best thing to do is to fill your wireframe in with your color palette. I.e, go ahead and design everything on grayscale, and once you're happy with how it looks, use your color palette to color it in!
+If you haven't created your wireframe yet, go ahead and do that. In my opinion, the best thing to do is to fill your wireframe in with your color palette, instead of coloring your wireframe as you create it. I.e, go ahead and design everything on grayscale, and once you're happy with how it looks, use your color palette to color it in!
 
 We're doing this because in my (rather short) experience, it's very challenging to create a new object _and_ color it in at the same time. But hey, if that works for you, go for it!
 
