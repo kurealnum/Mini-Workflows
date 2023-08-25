@@ -159,3 +159,9 @@ That was a long section, wasn't it! Now that you have everything in your design 
 - Consistency helps keep elements harmonical and avoids confusion
 - Simplicity (remember KISS?) helps keep things straightforward
 - Feedback keeps users engaged
+
+## Finishing up
+
+Are we finally done? Well, you probably aren't. It takes a lot of practice to get good at something, and you probably won't be able to design a nice looking UI in a day, probably not even a week.
+
+Just remember that designing is a lot of trial and error. You might initially love something, but find that it completely clashes with another element of your design, or that you just don't like it later on. Always feel free to make big changes, or if you want to go the nuclear route, start over!
