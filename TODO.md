@@ -24,7 +24,7 @@ I'm working on this in the TODO file because I don't know exactly where I want t
 <br></br>
 <br></br>
 
-# UI/UX/General website design
+# UI/UX/General website design ✍
 
 Before you start reading, remember that:
 
@@ -32,9 +32,9 @@ Before you start reading, remember that:
 
 Just keep that in mind, and if there's anything you disagree with, feel free make a pull request!
 
-## Resources
+## Resources 📚
 
-A collection of resources that you might want to consider when desigining a UI or optimizing UX!
+A collection of resources that you might want to consider when desigining a UI or optimizing UX:
 
 #### Tools
 
@@ -48,7 +48,7 @@ A collection of resources that you might want to consider when desigining a UI o
 - [How to pick the right colors for your website or app](https://www.youtube.com/watch?v=ewRYw4pnKQU)
 - [How to make UI color palettes](https://www.youtube.com/watch?v=yYwEnLYT55c)
 
-## User flows
+## User flows 🌊
 
 Before you even start desigining your website, you should map out where you want the user to go, from start to finish. It might look something like this:
 
@@ -60,7 +60,7 @@ Before you even start desigining your website, you should map out where you want
 
 While this is a very basic rendition of a user flow, it does give you a good idea of what one might look like. In my opinion, you shouldn't stress over it too much, just make sure it looks generally nice (and complete!).
 
-## Wireframing
+## Wireframing 🔌
 
 Now that you have an idea of where you want the pages to go, it's time to start desigining the page! The process will be similar to creating your userflow, except a little bit more in depth.
 
@@ -76,9 +76,9 @@ As you can see, this provides us with a nice little outline from which we can bu
 
 Additionally, if you want to see how this looks in a real world example, check out the [Figma](https://www.figma.com/file/Ch27DuyaY8za2Y3TAQr7Ls/MiniWorkflowsExamples?type=design&node-id=0-1&mode=design&t=DmqHs5sV2cwZ3ho0-0) that I designed this on!
 
-Finally, just keep it super simple (KISS). No one likes a web page with 13 different buttons. I would personally advise you to design your wireframe very minimalistically, as to avoid confusion in the future.
+Finally, Keep It Super Simple (KISS). No one likes a web page with 13 different buttons. I would personally advise you to design your wireframe very minimalistically, as to avoid confusion in the future.
 
-## Design System
+## Design System 🔨
 
 An important part of design systems are reusable components (yes, like React!). They can be very intricate and extensive, but in general, they're just something along the lines of:
 
@@ -148,7 +148,7 @@ We're doing this because in my (rather short) experience, it's very challenging 
 
 And again, if you haven't considered it already, consider using the 60/30/10 rule. It's incredibly helpful when it comes to desigining a UI.
 
-## Designing your UI (finally!)
+## Designing your UI (finally!) 👷‍♂️
 
 That was a long section, wasn't it! Now that you have everything in your design system ready to go, it's time to start designing. Here's some things that I like to keep in mind while I'm designing:
 
@@ -160,7 +160,7 @@ That was a long section, wasn't it! Now that you have everything in your design 
 - Simplicity (remember KISS?) helps keep things straightforward
 - Feedback keeps users engaged
 
-## Finishing up
+## Finishing up 🏁
 
 Are we finally done? Well, you probably aren't. It takes a lot of practice to get good at something, and you probably won't be able to design a nice looking UI in a day, probably not even a week.
 
