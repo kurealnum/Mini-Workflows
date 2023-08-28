@@ -113,6 +113,150 @@ Credit to _haekuh#0254_ for this part ^^
 
 <br>
 
+# UI/UX/General website design ✍
+
+Before you start reading, remember that:
+
+> All of this is a major learning experience for me, and I'll continuously refine the workflows, notes, and ideas in this file!
+
+Just keep that in mind, and if there's anything you disagree with, feel free make a pull request!
+
+## Resources 📚
+
+A collection of resources that you might want to consider when desigining a UI or optimizing UX:
+
+#### Tools
+
+- [Figma](https://www.figma.com) - Good for designing, wireframing, and all sorts of things
+- [PaletteGenerator](https://realtimecolors.com/palettes/?colors=e9e4f6-05020b-5E40BA-17102e-7756d8#generator) - Color palette generator
+- [ColorSpace](https://mycolor.space/?hex=%2300766B&sub=1) - Another color palette generator
+- [Adobe Color Wheel](https://color.adobe.com/create/color-wheel) - A very in-depth/technical color wheel for creating color harmonies
+
+#### Videos
+
+- [How to pick the right colors for your website or app](https://www.youtube.com/watch?v=ewRYw4pnKQU)
+- [How to make UI color palettes](https://www.youtube.com/watch?v=yYwEnLYT55c)
+
+## User flows 🌊
+
+Before you even start desigining your website, you should map out where you want the user to go, from start to finish. It might look something like this:
+
+<br>
+<p align="center">
+  <img src="./.github/userflowexample.drawio.png"/>
+</p>
+<br>
+
+While this is a very basic rendition of a user flow, it does give you a good idea of what one might look like. In my opinion, you shouldn't stress over it too much, just make sure it looks generally nice (and complete!).
+
+## Wireframing 🔌
+
+Now that you have an idea of where you want the pages to go, it's time to start desigining the page! The process will be similar to creating your userflow, except a little bit more in depth.
+
+When you design your wireframe, focus on creating connected pages, layouts in said pages, and anything else like that! In case you're confused, here's a very simple example:
+
+<br>
+<p align="center">
+  <img src="./.github/Main.png"/>
+</p>
+<br>
+
+As you can see, this provides us with a nice little outline from which we can build off of! For example, maybe we know that we want a title card on the front page. Our leftmost design (see above) has a nice place for that, but it also wouldn't be very hard to move that title card around a little bit.
+
+Additionally, if you want to see how this looks in a real world example, check out the [Figma](https://www.figma.com/file/Ch27DuyaY8za2Y3TAQr7Ls/MiniWorkflowsExamples?type=design&node-id=0-1&mode=design&t=DmqHs5sV2cwZ3ho0-0) that I designed this on!
+
+Finally, Keep It Super Simple (KISS). No one likes a web page with 13 different buttons. I would personally advise you to design your wireframe very minimalistically, as to avoid confusion in the future.
+
+## Design System 🔨
+
+An important part of design systems are reusable components (yes, like React!). They can be very intricate and extensive, but in general, they're just something along the lines of:
+
+- [Color palette](#color-palettesand-how-to-choose-one)
+- Styling for certain buttons
+- Main font(s)
+- ...
+
+And the list goes on! Just remember that this is a very simple example, and it might get a bit more fancy in the real world.
+
+### Color palettes,and how to choose one
+
+I don't know about you, but I've _always_ struggled with choosing a nice color palette. Any time I find or create one, there's either one color that I don't like, or I just can't figure out how to properly utilize the palette on a real website. This section should _hopefully_ help you figure that out!
+
+#### "Sorting" your colors
+
+It can be a bit tricky to choose a color palette without figuring out how to "sort" your colors. Here's how I like to do it:
+
+- Background
+- Text
+- Primary
+- Secondary
+- Accent
+- 2 Semantic colors (eg. an error and a success color)
+
+You might hear some people say that you should have exactly 9 shades of each of your colors, and while they aren't wrong, I find that a bit excessive for most projects. If I need a lighter or darker shade, I just create that shade when I need to.
+
+#### The 60-30-10 rule
+
+You'll almost definitley see this term at somepoint, and all it's saying is that 60% of your designs color should be your primary, 30% should be your secondary, and 10% should be your accent. Of course, it's not a hard and fast rule, but more of a general guideline.
+
+#### Picking a primary color
+
+First off, find a basic color that you like. Ideally, this color (or something similar to it) will be your primary color. If you're working off of a preexisting brand, then your primary color might just be your brand color. Whatever it is, just make sure it's not too glaring! Neon green might be a little bit tricky to design a UI around.
+
+Here's a good rule of thumb; your primary color will normally be in the upper right section of the color picker. For example:
+
+<br>
+<p align="center">
+  <img src="./.github/primarycolor.png"/>
+</p>
+<br>
+
+This will normally result in a color that is bright enough to draw attention, but not bright enough to be annoying. _P.S: Credit to [UX Tool's](https://www.youtube.com/watch?v=yYwEnLYT55c) video for this idea!_
+
+Also, if you're having trouble coming up with primary color ideas, you can use tools like [ColorSpace](https://mycolor.space/?hex=%2300766B&sub=1) or [PaletteGenerator](https://realtimecolors.com/palettes/?colors=e9e4f6-05020b-5E40BA-17102e-7756d8#generator) to generate palettes, which you can pick different colors off of. However, I don't personally recommend using these tools to create your _entire_ palette.
+
+#### Picking a secondary color
+
+Your secondary color should stand out (but not in an obnoxious way), and it should compliment your primary color. When choosing a secondary color, I like to use the [Adobe Color Wheel](https://color.adobe.com/create/color-wheel). You can input a primary color, and then apply different color harmonies to see which one looks best!
+
+#### Picking an accent color
+
+In my experience, this is either the easiest part or the hardest part. Your accent color should accent your primary, secondary, and any other colors/shades that you might have.
+
+A good example is the blue on Facebook. Most of Facebook is gray/white, but the portions of it that aren't have blue highlights, so it makes the overall design feel blue, but not in an overbearing or negative way!
+
+When you get around to picking your accent color, yet again, I like to use the [Adobe Color Wheel](https://color.adobe.com/create/color-wheel), and optimally, find something that accents my primary color.
+
+### Utlizing your color palette
+
+Now that you have your color palette, what the heck should you do with it?
+
+If you haven't created your wireframe yet, go ahead and do that. In my opinion, the best thing to do is to fill your wireframe in with your color palette, instead of coloring your wireframe as you create it. I.e, go ahead and design everything on grayscale, and once you're happy with how it looks, use your color palette to color it in!
+
+We're doing this because in my (rather short) experience, it's very challenging to create a new object _and_ color it in at the same time. But hey, if that works for you, go for it!
+
+And again, if you haven't considered it already, consider using the 60/30/10 rule. It's incredibly helpful when it comes to desigining a UI.
+
+## Designing your UI (finally!) 👷‍♂️
+
+That was a long section, wasn't it! Now that you have everything in your design system ready to go, it's time to start designing. Here's some things that I like to keep in mind while I'm designing:
+
+- Creativity may play a major role, but a lot of UI design is, in my opinion, following some general rules and guidelines
+- Visual hierarchy helps show the importance of items
+- Contrast helps distinguish elements
+- Balance helps moderate the spacing of elements
+- Consistency helps keep elements harmonical and avoids confusion
+- Simplicity (remember KISS?) helps keep things straightforward
+- Feedback keeps users engaged
+
+## Finishing up 🏁
+
+Are we finally done? Well, you probably aren't. It takes a lot of practice to get good at something, and you probably won't be able to design a nice looking UI in a day, probably not even a week.
+
+Just remember that designing is a lot of trial and error. You might initially love something, but find that it completely clashes with another element of your design, or that you just don't like it later on. Always feel free to make big changes, or if you want to go the nuclear route, start over!
+
+<br>
+
 ## Encountering an incorrect function return 🤖
 
 **1. [The Big 2](#the-big-2)**
