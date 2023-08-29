@@ -18,13 +18,15 @@ Also, please keep in mind that this is not meant to be some rigid guideline that
 All of this is a major learning experience for me, and I'll continuously refine the workflows, notes, and ideas in this file!
 </p>
 
-<br>
-
-# Best methods of practice for X + Outlining and workflows:
-
-Workflows for certain problems, where X is a problem, bug, question, ect. As previously mentioned, nothing here is intended to be a rigid solution to every problem. Similar to design patterns, these workflows are meant to be `guidelines on how to tackle certain problems`, which yes, is a direct quote from [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans#introduction).
+<p align="center">
+This whole file is a collection of workflows and ideas for certain problems (think "guidelines on how to solve X") where X is a problem, bug, question, ect. As previously mentioned, nothing here is intended to be a rigid solution to every problem. While a lot of these may be best practices, there are workflows for bigger ideas/problems such as web design.
+</p>
 
 <br>
+
+# Table of contents
+
+- TODO
 
 ## The Big 2 🥈
 
@@ -44,7 +46,7 @@ Also, be prepared to whiteboard a little bit differently for every problem. One 
 
 # Mini Workflows
 
-## Learning DSA/working through Leetcode problems 👨‍💻
+# Learning DSA/working through Leetcode problems 👨‍💻
 
 When you're learning, keep in mind that:
 
@@ -54,7 +56,7 @@ When you're learning, keep in mind that:
 
 > Don't waste your time on Leetcode. Spend a maximum of 60 minutes working on a problem, and if you can't figure it out, look at the solution. Just make sure you understand _why_ the solution works
 
-### Understanding Leetcode problems 📖
+## Understanding Leetcode problems 📖
 
 **_Use REACTO:_**
 
@@ -257,7 +259,7 @@ Just remember that designing is a lot of trial and error. You might initially lo
 
 <br>
 
-## Encountering an incorrect function return 🤖
+# Encountering an incorrect function return 🤖
 
 **1. [The Big 2](#the-big-2)**
 
@@ -279,7 +281,7 @@ Just remember that designing is a lot of trial and error. You might initially lo
 
 <br>
 
-## Encountering a bug 🐛
+# Encountering a bug 🐛
 
 **1. [The Big 2](#the-big-2)**
 
@@ -318,7 +320,7 @@ Just remember that designing is a lot of trial and error. You might initially lo
 
 <br>
 
-## How to google it (properly!) 🔍
+# How to google it (properly!) 🔍
 
 A lot of information is likely taken from [this video](https://www.youtube.com/watch?v=cEBkvm0-rg0). Some of my own thoughts, experiences, and opinions will be mixed in there as well.
 
