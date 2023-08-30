@@ -26,7 +26,13 @@ This whole file is a collection of workflows and ideas for certain problems (thi
 
 # Table of contents
 
-- TODO
+- [The Big 2](#the-big-2-🥈)
+- [Encountering a bug](#encountering-a-bug-🐛)
+- [Learning DSA/working through Leetcode problems](#learning-dsaworking-through-leetcode-problems-👨‍💻)
+- [Encountering an incorrect function return](#encountering-an-incorrect-function-return-🤖)
+- [UI/UX/general website design](#uiuxgeneral-website-design-✍)
+- [How to google it](#how-to-google-it-properly-🔍)
+- [Thoughts, opinions, and ideas](#thoughts-opinions-and-ideas)
 
 ## The Big 2 🥈
 
@@ -43,8 +49,6 @@ The 2 **_REALLY_** important things to do every time you encounter a bug:
 Also, be prepared to whiteboard a little bit differently for every problem. One problem might require a flow chart of sorts, and another might require a diagram. Adaptability is important.
 
 <br></br>
-
-# Mini Workflows
 
 # Learning DSA/working through Leetcode problems 👨‍💻
 
