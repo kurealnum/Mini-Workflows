@@ -19,7 +19,7 @@ All of this is a major learning experience for me, and I'll continuously refine 
 </p>
 
 <p align="center">
-This whole file is a collection of workflows and ideas for certain problems (think "guidelines on how to solve X") where X is a problem, bug, question, ect. As previously mentioned, nothing here is intended to be a rigid solution to every problem. While a lot of these may be best practices, there are workflows for bigger ideas/problems such as web design.
+This whole file is a collection of workflows and ideas for certain problems (think  of "guidelines on how to solve X", almost like design patterns) where X is a problem, bug, question, ect. As previously mentioned, nothing here is intended to be a rigid solution to every problem. While a lot of these may be best practices, there are workflows for bigger ideas/problems such as web design.
 </p>
 
 <br>
@@ -58,7 +58,7 @@ When you're learning, keep in mind that:
 
 > Try to gain a deeper understanding of DSA (Data Structures and Algorithms), and avoid memorizing the answers.
 
-> Don't waste your time on Leetcode. Spend a maximum of 60 minutes working on a problem, and if you can't figure it out, look at the solution. Just make sure you understand _why_ the solution works
+> Don't waste your time on grinding out one problem. Spend a maximum of 60 minutes working on a problem, and if you can't figure it out, look at the solution. Just make sure you understand _why_ the solution works
 
 ## Understanding Leetcode problems 📖
 
@@ -71,11 +71,9 @@ When you're learning, keep in mind that:
 5. Testing: pass the testcases
 6. Optimize: optimize the complexities (time and space) of your algorithm
 
-_The above was written by by [this Youtube account](https://www.youtube.com/channel/UC9s8Wy4D_4dsFjwiufqNAng)_
+_The above was written by by [this Youtube account](https://www.youtube.com/channel/UC9s8Wy4D_4dsFjwiufqNAng), not me!_
 
-Practice is the most important thing here. Other than that, make sure you actually solve the problem each time. Here's my little guide(that I try to constantly update and change) to successfully do Leetcode problems. Additionally, this workflow should help you actually absorb the information and understand the concept:
-
-Before I knew about REACTO, I made up my own method of solving these problems:
+Practice is the most important thing here. Other than that, make sure you actually solve the problem each time. Here's my little guide that I made before I knew about REACTO. This workflow should help you actually absorb the information and understand the concept:
 
 **1. Write the problem out**
 
